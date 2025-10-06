@@ -11,3 +11,5 @@ git commit -m "%message%"
 git push
 
 git status
+
+bash
